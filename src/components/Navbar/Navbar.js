@@ -9,6 +9,7 @@ const Navbar = () => {
                 <Link to="/" className="navbar-brand fs-3 ubuntu">
                     Rick & Morty <span className="text-primary fw-bold">WiKi</span>
                 </Link>
+                <Link className="navbar-brand fs-5" to="https://tintodd-porfolio.netlify.app/">Tintodd Portfolio</Link>
                 <style jsx>
                     {`
                     button[aria-expanded="false"] > .close {
